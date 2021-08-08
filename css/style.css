@@ -1,0 +1,26 @@
+.first-block {
+  display: flex;
+  justify-content: space-between;
+}
+li {
+  display: inline;
+}
+
+/* классы навигации */
+.websudio {
+}
+.bluestudio {
+}
+.studio {
+}
+.portfolio {
+}
+.contacts {
+}
+.email-phone {
+  display: flex;
+}
+.phone-number {
+  color: #757575;
+  text-decoration: none;
+}
